@@ -21,7 +21,7 @@ subprojects {
             repositories {
                 maven {
                     name = "GitHubPackages"
-                    url = uri("https://maven.pkg.github.com/AceGuru-mjh/Android-Agent-Framework")
+                    url = uri("https://maven.pkg.github.com/Ultra-Guru/apex-framework-agent")
                     credentials {
                         username = System.getenv("GITHUB_ACTOR") ?: "unknown"
                         password = System.getenv("GITHUB_TOKEN") ?: "unknown"

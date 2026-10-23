@@ -12,7 +12,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "android-agent-framework"
+rootProject.name = "apex-framework-agent"
 
 // 模块随开发进度逐步合入：
 //   PR1 → :agent-core / :agent-tools / :agent-llm
