@@ -1,6 +1,6 @@
 # 快速上手
 
-本指南带你用 Android Agent Framework 在几分钟内造出一个带工具调用能力的 Agent。
+本指南带你用 apex-framework-agent 在几分钟内造出一个带工具调用能力的 Agent。
 
 ## 1. 引入依赖
 
@@ -10,7 +10,7 @@
 repositories {
     mavenCentral()
     maven {
-        url = uri("https://maven.pkg.github.com/AceGuru-mjh/Android-Agent-Framework")
+        url = uri("https://maven.pkg.github.com/Ultra-Guru/apex-framework-agent")
         credentials {
             username = project.findProperty("gpr.user") as String? ?: System.getenv("USERNAME")
             password = project.findProperty("gpr.key") as String? ?: System.getenv("TOKEN")

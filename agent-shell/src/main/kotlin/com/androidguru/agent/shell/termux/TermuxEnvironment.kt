@@ -504,7 +504,7 @@ class TermuxEnvironment(
         script.writeText(
             """
             #!/data/data/com.termux/files/usr/bin/sh
-            # 由 Android-Agent-Framework 生成：进入终端环境时的初始化。可自由修改。
+            # 由 apex-framework-agent 生成：进入终端环境时的初始化。可自由修改。
             # 注意：这里用的是环境内路径（proot 已把宿主目录映射到该位置）。
 
             export PREFIX=${TermuxBootstrapCatalog.GUEST_PREFIX}

@@ -1,10 +1,10 @@
-# Android Agent Framework
+# apex-framework-agent
 
-[![CI](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/ci.yml/badge.svg)](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/ci.yml)
-[![PR Check](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/pr-check.yml/badge.svg)](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/pr-check.yml)
-[![Release](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/release.yml/badge.svg)](https://github.com/AceGuru-mjh/Android-Agent-Framework/actions/workflows/release.yml)
+[![CI](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/ci.yml)
+[![PR Check](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/pr-check.yml/badge.svg)](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/pr-check.yml)
+[![Release](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/release.yml/badge.svg)](https://github.com/Ultra-Guru/apex-framework-agent/actions/workflows/release.yml)
 
-> 从 [Android-Guru-Agent](https://github.com/AceGuru-mjh/Android-Guru-Agent) 中提取的通用 Agent 框架。
+> 从 [Android-Guru-Agent](https://github.com/Ultra-Guru/Android-Guru-Agent) 中提取的通用 Agent 框架。
 > 任何 Android / JVM 软件接入本框架，即可快速获得完整的 Agent 能力：**接入你的 LLM Key，几分钟内造出一个 Agent**。
 
 ## 定位
